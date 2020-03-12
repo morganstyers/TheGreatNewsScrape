@@ -1,7 +1,6 @@
 {
   "name": "thegreatnewsscrape",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -28,7 +27,8 @@
     "mongojs": "^3.1.0",
     "mongoose": "^5.7.14",
     "morgan": "^1.9.1",
-    "request": "^2.88.0"
+    "request": "^2.88.0",
+    "webpack": "^4.41.3"
   },
   "db": "heroku_c7mjvbmd",
   "collections": 0,
@@ -47,5 +47,7 @@
   "operationTime": {
     "$ts": 1575697003,
     "$inc": 1
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
