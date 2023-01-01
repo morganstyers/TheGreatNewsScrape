@@ -28,7 +28,7 @@
     "mongoose": "^5.7.14",
     "morgan": "^1.9.1",
     "request": "^2.88.0",
-    "webpack": "^4.41.3"
+    "webpack": "^5.75.0"
   },
   "db": "heroku_c7mjvbmd",
   "collections": 0,
